@@ -16,16 +16,16 @@
         "psr-4": { "Creads\\Api2SymfonyBundle\\": "src" }
     },
     "require": {
-        "symfony/http-kernel": "~2.3",
+        "symfony/http-kernel": "~3.0",
         "creads/api2symfony": "~1.0",
-        "symfony/filesystem": "~2.3",
-        "symfony/twig-bundle": "~2.3"
+        "symfony/filesystem": "~3.0",
+        "symfony/twig-bundle": "~2.7"
     },
     "require-dev": {
-        "symfony/framework-bundle": "~2.3",
-        "symfony/console": "~2.3",
-        "symfony/yaml": "~2.3",
-        "symfony/finder": "~2.3"
+        "symfony/framework-bundle": "~3.0",
+        "symfony/console": "~2.8",
+        "symfony/yaml": "~3.0",
+        "symfony/finder": "~3.0"
     },
     "extra": {
         "branch-alias": {
